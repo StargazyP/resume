@@ -1,5 +1,5 @@
 # Resume of [StargazyP](https://github.com/stargazyP)
-> 장동건 이력서 페이지 입니다.
+> 2024년 장동건 이력서 페이지 입니다.
 
 ## [1. Outline](https://github.com/stargazyP)
 ### [1.1. Profile](https://github.com/stargazyP)
