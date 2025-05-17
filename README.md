@@ -63,8 +63,6 @@ Project            | Skills           | Description
 Project            | Skills           | Description
 -------------------|------------------|-----------------------------
 [Spring_sns](https://github.com/StargazyP/Spring_sns) | Java,Javacsript | 
-[Vue_airplane](https://github.com/StargazyP/Vue_airplane) | Javacscript|
-[Java_calculate](https://github.com/StargazyP/Java_calculate)| Java |
 [Node.js_board](https://github.com/StargazyP/Node.js_board)| Javacsript |
 [Jsp_drawing](https://github.com/StargazyP/Jsp_drawing)| Javascript, Java
 
